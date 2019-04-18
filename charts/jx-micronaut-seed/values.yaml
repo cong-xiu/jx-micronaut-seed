@@ -1,7 +1,7 @@
 replicaCount: 1
 image:
   repository: 10.91.245.115:5000/cong-xiu/jx-micronaut-seed
-  tag: 0.2.0
+  tag: 0.2.1
   pullPolicy: IfNotPresent
 env: null
 knativeDeploy: false
